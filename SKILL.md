@@ -5,4 +5,4 @@ description: A tiny throwaway skill used to test Make's git-import pull mechanis
 
 # Fixture Skill
 
-Version marker: v1-initial
+Version marker: v2-updated-body
